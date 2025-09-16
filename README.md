@@ -22,7 +22,7 @@ Your program should:
 3. Calculate:
    - The number of hours and the number of minutes for the movie.
    - The total length of the movie in **decimal hours** (using casting).  
-   - The decimal hours should be truncated to **two decimal places**.  
+   - The decimal hours should be rounded to **two decimal places**.  
     
 4. Print the result in this exact format:  
 
